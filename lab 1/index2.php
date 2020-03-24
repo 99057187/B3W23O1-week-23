@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>B3W23O1 naam & fruit</title>
+	<title>B3W23O1 naam</title>
 </head>
 <body>
 <?php
-require "variables.php";
+include "content.php";
 ?>
 </body>
 </html>
