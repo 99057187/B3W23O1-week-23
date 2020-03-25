@@ -46,4 +46,8 @@ ul li a{
 ul li{
     display:inline-block;
 }
-
+#foto{
+	position:absolute;
+	top:400px;
+	left:600px;
+}
